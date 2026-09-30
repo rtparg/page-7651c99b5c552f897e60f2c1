@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.xn--sakuracat-344t797ers6b.com/sitemap.xml
